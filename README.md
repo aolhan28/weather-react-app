@@ -1,3 +1,9 @@
+
+# Weather React App Design
+
+This is a react app, that I built as a part of my graduate course in web and app development at New York Tech. This is a weather API app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
