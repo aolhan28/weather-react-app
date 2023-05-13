@@ -1,3 +1,27 @@
+.color-background {
+  background-color: rgb(213, 211, 247);
+  background-image: url(https://t4.ftcdn.net/jpg/04/59/21/27/360_F_459212754_qmjGKlcdFTf7SY4yLjauilF75KRFaqhc.jpg);
+  background-size: cover;
+}
+
+.card-title.h5 {
+  color: white;
+}
+
+p.card-text {
+  color: white;
+}
+
+.card.body {
+color: firebrick;
+}
+.card-background {
+  background-color: aqua;
+  background-image: url(https://t4.ftcdn.net/jpg/00/93/95/05/240_F_93950529_mr8txpRu4kE1kLasCFciHKuKaiTFMFOz.jpg);
+  background-size: cover;
+}
+
+
 .App {
   text-align: center;
 }
@@ -32,6 +56,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
