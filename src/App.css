@@ -1,6 +1,11 @@
+body {
+  background-image: url(https://media.istockphoto.com/id/1208368568/photo/dramatic-sunset-and-sunrise-sky-nature-background-with-white-clouds.jpg?s=612x612&w=0&k=20&c=mu12e5RAWbRKShGqpuRtNJHN7ZXHiohsmSBFbUXchT4=);
+  background-size: cover;
+}
+
 .color-background {
   background-color: rgb(213, 211, 247);
-  background-image: url(https://t4.ftcdn.net/jpg/04/59/21/27/360_F_459212754_qmjGKlcdFTf7SY4yLjauilF75KRFaqhc.jpg);
+  background-image: url(https://cdn.theatlantic.com/thumbor/i9jH00gdQ3Lov_7DI2xDujaTwQQ=/845x470:2635x1477/1600x900/media/img/mt/2016/03/RTX283V4/original.jpg);
   background-size: cover;
 }
 
@@ -13,11 +18,12 @@ p.card-text {
 }
 
 .card.body {
-color: firebrick;
+  color: firebrick;
 }
+
 .card-background {
   background-color: aqua;
-  background-image: url(https://t4.ftcdn.net/jpg/00/93/95/05/240_F_93950529_mr8txpRu4kE1kLasCFciHKuKaiTFMFOz.jpg);
+  background-image: url(https://media.istockphoto.com/id/597963092/photo/graduated-twilight-horizon-sky.jpg?s=612x612&w=0&k=20&c=ccA7fV5sWCx9DBf3NTe5iuoCQFvHsf4U3KKqazyWlD4=);
   background-size: cover;
 }
 

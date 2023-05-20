@@ -7,6 +7,7 @@ import Forecast from './components/forecast';
 
 const API_KEY = '571f3392de53c753286b3ada411b7ce0';
 
+
 const WeatherApp = () => {
   const [city, setCity] = useState('');
   const [weatherData, setWeatherData] = useState(null);
